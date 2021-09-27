@@ -1,5 +1,5 @@
 # nodets-canil
-Projeto feito no curos Node + Typescript da B7Web
+Projeto feito no curso Node + Typescript da B7Web
 
 ### Pré resquisitos globais
 `npm i -g nodemon typescript ts-node`
